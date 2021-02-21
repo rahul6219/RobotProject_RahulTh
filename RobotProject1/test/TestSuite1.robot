@@ -25,6 +25,8 @@ MyThirdTest
 MyFourthTest
         Log     This is my 4th test :)
 
+My Fifthtest
+        Log     This is my 5th test
 *** Test Cases ***
 # MyFirstTest
     # Log    Hello World...    
