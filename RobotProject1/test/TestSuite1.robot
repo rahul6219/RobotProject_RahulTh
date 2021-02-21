@@ -22,6 +22,8 @@ MySecondTest
 MyThirdTest
     Log        I am inside the 3rd test...
 
+MyFourthTest
+        Log     This is my 4th test :)
 
 *** Test Cases ***
 # MyFirstTest
